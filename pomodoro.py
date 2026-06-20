@@ -3,13 +3,7 @@
 Zero external dependencies. Python 3.x + tkinter.
 """
 
-import tkinter as tk
-from tkinter import ttk
-import enum
-from time import monotonic
-import sys
-import ctypes
-from ctypes import wintypes
+
 
 # ============================================================
 # Constants
